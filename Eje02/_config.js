@@ -1,0 +1,5 @@
+module.exports = {
+    PORT: 3000,
+    DB: "AEU3EJE01",
+    SECRETJWT : "1231EQDSD1213DSSD112DD"
+}
